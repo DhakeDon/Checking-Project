@@ -1,0 +1,12 @@
+{
+  "name": "acadhost-test-app",
+  "version": "1.0.0",
+  "description": "Test Node app for AcadHost",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
