@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 
 // Basic routes
 app.get('/', (req, res) => {
-  res.send('🚀 AcadHost Project Running Successfully  this is to check github webbok!');
+  res.send('🚀 AcadHost Project Running Successfully  this is to rechecking');
 });
 
 app.get('/health', (req, res) => {
